@@ -1,14 +1,4 @@
-==================================================
-KRUSHNA GAME
-Data Analyst | Turning Raw Data into Actionable Insights
-==================================================
 
-LinkedIn : https://www.linkedin.com/in/krushna-game-55229325
-Email    : krushnagame60@gmail.com
-GitHub   : https://github.com/Krushnagame12
-Location : Pune, Maharashtra
-
---------------------------------------------------
 ABOUT ME
 --------------------------------------------------
 - Detail-oriented Data Analyst with a strong foundation in data cleaning,
