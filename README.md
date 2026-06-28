@@ -1,55 +1,68 @@
-# Hi, I'm Krushna Game 👋
+==================================================
+KRUSHNA GAME
+Data Analyst | Turning Raw Data into Actionable Insights
+==================================================
 
-🎓 Master of Computer Science (SPPU Pune) | CGPA: 8.05 (Grade A)
+LinkedIn : https://www.linkedin.com/in/krushna-game-55229325
+Email    : krushnagame60@gmail.com
+GitHub   : https://github.com/Krushnagame12
+Location : Pune, Maharashtra
 
-📊 Aspiring Data Analyst with skills in Python, SQL, Excel, Power BI, and Data Visualization.
+--------------------------------------------------
+ABOUT ME
+--------------------------------------------------
+- Detail-oriented Data Analyst with a strong foundation in data cleaning,
+  statistical analysis, EDA, and visualization
+- Skilled in transforming raw data into meaningful insights using Python,
+  SQL, Excel, and Power BI
+- Experienced in building ETL pipelines and interactive dashboards that
+  drive business decisions
+- Master's in Computer Science, Savitribai Phule Pune University (CGPA: 8.05)
+- Certified Data Scientist — IABAC & Ministry of Electronics and IT, Govt. of India
+- Languages: Hindi, Marathi, English
 
-## 🚀 About Me
-- Passionate about Data Analytics and Data Science
-- Experienced in Data Cleaning, EDA, and Dashboard Creation
-- Interested in transforming raw data into actionable insights
+--------------------------------------------------
+TECH STACK
+--------------------------------------------------
+Programming & Version Control : Python, Git, GitHub
+Databases                     : MySQL, PostgreSQL
+Data Analysis                 : Pandas, NumPy, Microsoft Excel, Jupyter Notebook
+Data Visualization            : Power BI, Matplotlib, Seaborn
 
-## 🛠️ Technical Skills
-- Python
-- MySQL
-- Pandas
-- NumPy
-- Power BI
-- Excel
-- Matplotlib
-- Seaborn
-- Git & GitHub
-- Jupyter Notebook
+--------------------------------------------------
+FEATURED PROJECTS
+--------------------------------------------------
 
-## 📂 Projects
+1. E-Commerce Customer Segmentation
+   Link: https://github.com/Krushnagame12/E-Commerce-Customer-Segmentation
+   Analyzed 500K+ transaction records using the RFM (Recency, Frequency,
+   Monetary) model to segment customers into 4 distinct groups — enabling
+   targeted marketing strategies that improved customer retention analysis
+   by 15%.
+   Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 
-### E-Commerce Customer Segmentation
-- Customer segmentation using RFM Analysis
-- Tools: Python, Pandas, NumPy, Matplotlib, Seaborn
+2. Zepto Product Intelligence — SQL & Excel Analytics
+   Link: https://github.com/Krushnagame12/Zepto-SQL-Excel-Analysis-Project
+   Analyzed 3,700+ product SKUs across 14 categories using PostgreSQL;
+   wrote 8 business-focused SQL queries and built a 4-sheet Excel dashboard
+   across 3 markets (US, Ireland, UK), identifying discount opportunities
+   saving up to 51%.
+   Tools: PostgreSQL, Microsoft Excel, CSV, SQL
 
-🔗 Repository: https://github.com/Krushnagame12/E-Commerce-Customer-Segmentation
+--------------------------------------------------
+EXPERIENCE
+--------------------------------------------------
+Data Analyst Intern — Rubixe AI Solutions
+- Reduced data errors by 25% through systematic data cleaning and
+  preprocessing
+- Improved reporting efficiency by 20% through Power BI dashboard
+  automation
+- Contributed to a 30% improvement in resource allocation via
+  data-driven recommendations
 
-### Cell Phone Price Analysis
-- Analysis of mobile phone features affecting prices
-- Tools: Python, Pandas, Matplotlib, Seaborn
-
-🔗 Repository: https://github.com/Krushnagame12/Cell-Phone-Price-Analysis
-
-## 💼 Internship
-**Data Analyst Intern – Rubixe**
-- Data Cleaning and Preprocessing
-- Exploratory Data Analysis (EDA)
-- Dashboard Development using Power BI
-- Business Insight Generation
-
-## 📜 Certifications
-- Certified Data Scientist – IABAC
-- Certified Data Scientist – Ministry of Electronics and Information Technology, Government of India
-
-## 🌐 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/krushna-game-55229325b
-- GitHub: https://github.com/Krushnagame12
-- Email: krushnagame60@gmail.com
-
----
-⭐ Feel free to explore my repositories and connect with me!
+--------------------------------------------------
+LET'S CONNECT
+--------------------------------------------------
+LinkedIn : https://www.linkedin.com/in/krushna-game-55229325
+Email    : krushnagame60@gmail.com
+GitHub   : https://github.com/Krushnagame12
